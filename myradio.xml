@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<myradio timezone="Asia/Hong_Kong" daystart="0200" updated="20150328">
+    <section title="MyRadio" defaulticon="news.png" >
+        <archive title="毓民踩場" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=2" id="6000" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="大香港早晨" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=17" id="6019" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="本土論壇" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=8" id="6002" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="特備節目" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=13" id="6022" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="神秘之夜" url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=4" id="1003" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />
+        <archive title="天天天藍" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=6" id="6004" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="仁心人生" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=12" id="6017" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="瀛能無雙" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=19" id="6018" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="香港製造" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=20" id="6015" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="南瘋槍" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=22" id="6024" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="澳洲路邊社" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=23" id="6025" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="達仁在線" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=25" id="6026" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="熱血大球場" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=27" id="6007" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="粵字匯唐文" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=33" id="6027" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="雨傘九十後" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=38" id="6028" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="多咀兵團" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=28" id="6029" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="大戰" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=29" id="6030" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="澳門街" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=31" id="6031" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+        <archive title="廢噏360" 	url="http://hkr2.netpodcast.net/channelrssMy2.php?channelid=30" id="6032" mirror="no" icon="http://www.netpodcast.net/ppilogo.jpg" />	
+	</section>
+</myradio>
+
