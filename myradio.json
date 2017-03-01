@@ -357,7 +357,7 @@
                     "defaulticon": "news.png",
                     "archive": [{
                                 "title": "FOURum",
-                                "url": "http://4rum.terrencetsoi.info/FOURum.xml",
+                                "url": "https://raw.githubusercontent.com/11020156/4Rum/master/FOURum.xml",
                                 "id": "6000",
                                 "mirror": "no",
                                 "icon": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/13567105_256473881393718_8257912806485785639_n.jpg?oh=c8d19595c298ad5d13b114cbc57c6b9c&oe=58201930"
