@@ -9,7 +9,7 @@
         "updated": "20150328",
         "section": [{
                     "title": "謎米香港",
-                    "defaulticon": "news.png",
+                    "defaulticon": "http://www.netpodcast.net/memelogo.png",
                     "archive": [{
                                 "title": "蕭遙遊",
                                 "url": "http://hkr2.netpodcast.net/channelrssme.php?cv=1&channelid=1",
@@ -236,7 +236,7 @@
                                 }]
                     }, {
                     "title": "MyRadio",
-                    "defaulticon": "news.png",
+                    "defaulticon": "http://www.netpodcast.net/ppilogo.jpg",
                     "archive": [{
                                 "title": "毓民踩場",
                                 "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=2",
@@ -354,7 +354,7 @@
                                 }]
                     }, {
                     "title": "FOURum",
-                    "defaulticon": "news.png",
+                    "defaulticon": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/13567105_256473881393718_8257912806485785639_n.jpg?oh=c8d19595c298ad5d13b114cbc57c6b9c&oe=58201930",
                     "archive": [{
                                 "title": "FOURum",
                                 "url": "https://raw.githubusercontent.com/11020156/4Rum/master/FOURum.xml",
@@ -364,7 +364,7 @@
                                 }]
                     }, {
                     "title": "花生台",
-                    "defaulticon": "leisure.png",
+                    "defaulticon": "http://www.netpodcast.net/hkpeanut.png",
                     "archive": [{
                                 "title": "炮打司令部",
                                 "url": "http://hkr2.netpodcast.net/hkpeanut3.php?cv=1&channelid=cannonhit",
@@ -470,7 +470,7 @@
                                 }]
                     }, {
                     "title": "星滙網",
-                    "defaulticon": "leisure.png",
+                    "defaulticon": "http://www.staradio.com.hk/images/xinghuiwang-logo.png",
                     "archive": [{
                                 "title": "陰謀背後",
                                 "url": "http://hkr2.netpodcast.net/starradio.php?channelid=conspiracy-behind",
