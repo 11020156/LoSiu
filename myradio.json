@@ -11,6 +11,12 @@
                     "title": "謎米香港",
                     "defaulticon": "http://www.netpodcast.net/memelogo.png",
                     "archive": [{
+                                "title": "最新節目",
+                                "url": "http://hkr2.netpodcast.net/last24me.php",
+                                "id": "10020",
+                                "mirror": "no",
+                                "icon": "http://www.netpodcast.net/memelogo.png"
+                                }, {
                                 "title": "蕭遙遊",
                                 "url": "http://hkr2.netpodcast.net/channelrssme.php?cv=1&channelid=1",
                                 "id": "7000",
@@ -99,6 +105,12 @@
                     "title": "MyRadio",
                     "defaulticon": "http://www.netpodcast.net/ppilogo.jpg",
                     "archive": [{
+                                "title": "最新節目",
+                                "url": "http://hkr2.netpodcast.net/channelrssMy2.php",
+                                "id": "10021",
+                                "mirror": "no",
+                                "icon": "http://www.netpodcast.net/ppilogo.jpg"
+                                }, {
                                 "title": "毓民踩場",
                                 "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=2",
                                 "id": "6000",
@@ -194,9 +206,25 @@
                                 "icon": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/13567105_256473881393718_8257912806485785639_n.jpg?oh=c8d19595c298ad5d13b114cbc57c6b9c&oe=58201930"
                                 }]
                     }, {
+                    "title": "城寨",
+                    "defaulticon": "http://www.netpodcast.net/singai.jpg",
+                    "archive": [{
+                                "title": "城寨",
+                                "url": "http://hkr2.netpodcast.net/singjai.php",
+                                "id": "10060",
+                                "mirror": "no",
+                                "icon": "http://www.netpodcast.net/singai.jpg"
+                                }]
+                    }, {
                     "title": "花生台",
                     "defaulticon": "http://www.netpodcast.net/hkpeanut.png",
                     "archive": [{
+                                "title": "最新節目",
+                                "url": "http://hkr2.netpodcast.net/latestpeanut.php",
+                                "mirror": "no",
+                                "id": "10040",
+                                "icon": "http://www.netpodcast.net/hkpeanut.png"
+                                }, {
                                 "title": "炮打司令部",
                                 "url": "http://hkr2.netpodcast.net/hkpeanut3.php?cv=1&channelid=cannonhit",
                                 "mirror": "no",
