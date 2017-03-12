@@ -184,16 +184,16 @@
                                 "icon": "http://www.netpodcast.net/ppilogo.jpg"
                                 }]
                     }, {
-                    "title": "FOURum",
-                    "defaulticon": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/13567105_256473881393718_8257912806485785639_n.jpg?oh=c8d19595c298ad5d13b114cbc57c6b9c&oe=58201930",
-                    "archive": [{
-                                "title": "FOURum",
-                                "url": "https://raw.githubusercontent.com/11020156/4Rum/master/FOURum.xml",
-                                "id": "6000",
-                                "mirror": "no",
-                                "icon": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/13567105_256473881393718_8257912806485785639_n.jpg?oh=c8d19595c298ad5d13b114cbc57c6b9c&oe=58201930"
-                                }]
-                    }, {
+                    // "title": "FOURum",
+                    // "defaulticon": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/13567105_256473881393718_8257912806485785639_n.jpg?oh=c8d19595c298ad5d13b114cbc57c6b9c&oe=58201930",
+                    // "archive": [{
+                    //             "title": "FOURum",
+                    //             "url": "https://raw.githubusercontent.com/11020156/4Rum/master/FOURum.xml",
+                    //             "id": "6000",
+                    //             "mirror": "no",
+                    //             "icon": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/13567105_256473881393718_8257912806485785639_n.jpg?oh=c8d19595c298ad5d13b114cbc57c6b9c&oe=58201930"
+                    //             }]
+                    // }, {
                     "title": "城寨",
                     "defaulticon": "http://www.netpodcast.net/singai.jpg",
                     "archive": [{
