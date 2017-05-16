@@ -184,6 +184,16 @@
                                 "icon": "http://www.netpodcast.net/ppilogo.jpg"
                                 }]
                     }, {
+                    "title": "FOURum",
+                    "defaulticon": "http://www.netpodcast.net/singai.jpg",
+                    "archive": [{
+                                "title": "FOURum",
+                                "url": "https://raw.githubusercontent.com/11020156/4Rum/master/FOURum.xml",
+                                "id": "10060",
+                                "mirror": "no",
+                                "icon": "http://www.netpodcast.net/singai.jpg"
+                                }]
+                    }, {
                     "title": "城寨",
                     "defaulticon": "http://www.netpodcast.net/singai.jpg",
                     "archive": [{
