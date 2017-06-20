@@ -96,131 +96,133 @@
                 "mirror": "no",
                 "icon": "memelogo.png"
             }]
-        }, {
-            "title": "MyRadio",
-            "defaulticon": "ppilogo.jpg",
-            "archive": [{
-                "title": "毓民踩場",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=2",
-                "id": "2",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "毓民會客室",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=114",
-                "id": "114",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "毓民踢爆",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=110",
-                "id": "110",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "歷史在笑",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=3",
-                "id": "3",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "歷史在笑 (貳)",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=140",
-                "id": "140",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "崑崙風",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=141",
-                "id": "141",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "三個女人蜜蜜針",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=142",
-                "id": "142",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "建國研習班",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=57",
-                "id": "57",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "城邦論壇",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=8",
-                "id": "8",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "華夏建國論壇",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=112",
-                "id": "112",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "四眼乜乜乜",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=87",
-                "id": "87",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "合眾唯識",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=82",
-                "id": "82",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "梁錦祥 神秘之夜",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=115",
-                "id": "115",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "梁錦祥節目",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=80",
-                "id": "80",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "梁錦祥一週時事",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=111",
-                "id": "111",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "玄學天地",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=113",
-                "id": "113",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "澳門街",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=100",
-                "id": "100",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "人文講場",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=99",
-                "id": "99",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "天天天藍",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=6",
-                "id": "6",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "馬場USB",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=84",
-                "id": "84",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "達仁在線",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=90",
-                "id": "90",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "仁心人生",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=12",
-                "id": "12",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "玩樂高地",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=107",
-                "id": "107",
-                "icon": "ppilogo.jpg"
-            }, {
-                "title": "海外友好網台轉播節目",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=81",
-                "id": "81",
-                "icon": "ppilogo.jpg"
-            }]
-        }, {
+        }, 
+        // {
+        //     "title": "MyRadio",
+        //     "defaulticon": "ppilogo.jpg",
+        //     "archive": [{
+        //         "title": "毓民踩場",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=2",
+        //         "id": "2",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "毓民會客室",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=114",
+        //         "id": "114",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "毓民踢爆",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=110",
+        //         "id": "110",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "歷史在笑",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=3",
+        //         "id": "3",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "歷史在笑 (貳)",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=140",
+        //         "id": "140",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "崑崙風",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=141",
+        //         "id": "141",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "三個女人蜜蜜針",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=142",
+        //         "id": "142",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "建國研習班",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=57",
+        //         "id": "57",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "城邦論壇",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=8",
+        //         "id": "8",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "華夏建國論壇",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=112",
+        //         "id": "112",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "四眼乜乜乜",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=87",
+        //         "id": "87",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "合眾唯識",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=82",
+        //         "id": "82",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "梁錦祥 神秘之夜",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=115",
+        //         "id": "115",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "梁錦祥節目",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=80",
+        //         "id": "80",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "梁錦祥一週時事",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=111",
+        //         "id": "111",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "玄學天地",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=113",
+        //         "id": "113",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "澳門街",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=100",
+        //         "id": "100",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "人文講場",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=99",
+        //         "id": "99",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "天天天藍",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=6",
+        //         "id": "6",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "馬場USB",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=84",
+        //         "id": "84",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "達仁在線",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=90",
+        //         "id": "90",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "仁心人生",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=12",
+        //         "id": "12",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "玩樂高地",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=107",
+        //         "id": "107",
+        //         "icon": "ppilogo.jpg"
+        //     }, {
+        //         "title": "海外友好網台轉播節目",
+        //         "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=81",
+        //         "id": "81",
+        //         "icon": "ppilogo.jpg"
+        //     }]
+        // }, 
+        {
             "title": "FOURum",
             "defaulticon": "fourum.jpg",
             "archive": [{
