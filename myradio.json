@@ -105,11 +105,6 @@
                 "id": "2",
                 "icon": "ppilogo.jpg"
             }, {
-                "title": "毓民會客室",
-                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=114",
-                "id": "114",
-                "icon": "ppilogo.jpg"
-            }, {
                 "title": "毓民踢爆",
                 "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=110",
                 "id": "110",
@@ -123,6 +118,16 @@
                 "title": "歷史在笑 (貳)",
                 "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=140",
                 "id": "140",
+                "icon": "ppilogo.jpg"
+            }, {
+                "title": "毓民會客室",
+                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=114",
+                "id": "114",
+                "icon": "ppilogo.jpg"
+            }, {
+                "title": "今晚開你波",
+                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=144",
+                "id": "144",
                 "icon": "ppilogo.jpg"
             }, {
                 "title": "崑崙風",
