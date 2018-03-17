@@ -334,7 +334,13 @@
                 "mirror": "no",
                 "id": "2132",
                 "icon": "hkpeanut.png"
-            }, {
+            },  {
+                "title": "細説中南海",
+                "url": "http://hkr2.netpodcast.net/hkpeanut3.php?channelid=znh",
+                "mirror": "no",
+                "id": "2134",
+                "icon": "hkpeanut.png"
+            },  {
                 "title": "決戰中環",
                 "url": "http://hkr2.netpodcast.net/hkpeanut3.php?channelid=central",
                 "mirror": "no",
