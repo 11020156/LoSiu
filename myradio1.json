@@ -6,8 +6,8 @@
     "myradio": {
         "timezone": "Asia/Hong_Kong",
         "daystart": "0200",
-        "updated": "20150328",
-        "download": "1",
+        "updated": "20180701",
+        "download": "0",
         "section": [{
             "title": "謎米香港",
             "defaulticon": "memelogo.png",
