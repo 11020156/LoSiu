@@ -6,8 +6,8 @@
     "myradio": {
         "timezone": "Asia/Hong_Kong",
         "daystart": "0200",
-        "updated": "20150328",
-        "download": "0",
+        "updated": "20180701",
+        "download": "1",
         "section": [{
             "title": "謎米香港",
             "defaulticon": "memelogo.png",
@@ -339,6 +339,18 @@
                 "url": "http://hkr2.netpodcast.net/hkpeanut3.php?channelid=znh",
                 "mirror": "no",
                 "id": "2134",
+                "icon": "hkpeanut.png"
+            },  {
+                "title": "桑海神州",
+                "url": "http://hkr2.netpodcast.net/hkpeanut3.php?channelid=shenzhou",
+                "mirror": "no",
+                "id": "2135",
+                "icon": "hkpeanut.png"
+            },  {
+                "title": "中國與世界",
+                "url": "http://hkr2.netpodcast.net/hkpeanut3.php?channelid=chinaworld",
+                "mirror": "no",
+                "id": "2136",
                 "icon": "hkpeanut.png"
             },  {
                 "title": "決戰中環",
