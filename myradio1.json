@@ -453,13 +453,13 @@
             }]
         }, {
             "title": "花冧電台",
-            "defaulticon": "http://www.farumradio.com/wp-content/uploads/2016/07/logo01_.png",
+            "defaulticon": "ic_under_construction.png",
             "archive": [{
                 "title": "花冧電台",
                 "url": "http://www.farumradio.com/program/newprograms/feed/",
                 "id": "10060",
                 "mirror": "no",
-                "icon": "http://www.farumradio.com/wp-content/uploads/2016/07/logo01_.png"
+                "icon": "ic_under_construction.png"
             }]
         }]
 
