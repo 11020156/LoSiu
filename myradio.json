@@ -249,6 +249,24 @@
             "title": "花生台",
             "defaulticon": "hkpeanut.png",
             "archive": [{
+                "title": "異靈異靈",
+                "url": "https://hkr2.netpodcast.net/hkpeanut3.php?channelid=supernatural",
+                "mirror": "no",
+                "id": "2108",
+                "icon": "hkpeanut.png"
+            }, {
+                "title": "毛神論",
+                "url": "https://hkr2.netpodcast.net/hkpeanut3.php?channelid=motheory",
+                "mirror": "no",
+                "id": "2108",
+                "icon": "hkpeanut.png"
+            },{
+                "title": "高達順風耳",
+                "url": "https://hkr2.netpodcast.net/hkpeanut3.php?channelid=gundam",
+                "mirror": "no",
+                "id": "2108",
+                "icon": "hkpeanut.png"
+            },{
                 "title": "炮打司令部",
                 "url": "http://hkr2.netpodcast.net/hkpeanut3.php?cv=1&channelid=cannonhit",
                 "mirror": "no",
